@@ -1,0 +1,3 @@
+#!C:\Users\hp\Desktop\M111-Advanced-Python-and-Database-Management\main_env\Scripts\python.exe
+from numba.pycc import main
+main()
