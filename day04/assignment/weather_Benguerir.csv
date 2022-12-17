@@ -1,0 +1,16 @@
+days,temperature_max,temperature_min,day_state,wind_speed,rain_perc
+Ce soir,--,11°,Nuageux,SSO 5 km/h,14%
+sam. 17,19°,8°,Peu nuageux,E 13 km/h,15%
+dim. 18,22°,8°,Peu nuageux,ESE 11 km/h,15%
+lun. 19,23°,7°,Plutôt ensoleillé,E 12 km/h,8%
+mar. 20,23°,7°,Peu nuageux,SSO 13 km/h,8%
+mer. 21,22°,7°,Plutôt ensoleillé,ENE 13 km/h,7%
+jeu. 22,21°,6°,Ensoleillé,ENE 12 km/h,7%
+ven. 23,22°,6°,Ensoleillé,SSO 14 km/h,7%
+sam. 24,21°,7°,Plutôt ensoleillé,SSO 13 km/h,7%
+dim. 25,21°,8°,Plutôt ensoleillé,S 14 km/h,10%
+lun. 26,19°,8°,Peu nuageux,SSO 20 km/h,10%
+mar. 27,19°,9°,Peu nuageux,S 15 km/h,8%
+mer. 28,20°,8°,Peu nuageux,S 13 km/h,8%
+jeu. 29,20°,9°,Très nuageux,SSO 16 km/h,7%
+ven. 30,20°,9°,Peu nuageux,SSO 15 km/h,7%

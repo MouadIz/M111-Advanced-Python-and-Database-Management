@@ -1,0 +1,16 @@
+days,temperature_max,temperature_min,day_state,wind_speed,rain_perc
+Aujourd’hui,19°,12°,Averses,SO 10 km/h,14%
+dim. 18,20°,15°,Peu nuageux,E 24 km/h,14%
+lun. 19,21°,14°,Peu nuageux,E 18 km/h,12%
+mar. 20,21°,16°,Averses dans l'après-midi,SE 13 km/h,12%
+mer. 21,19°,13°,Averses dans la matinée,SO 9 km/h,12%
+jeu. 22,19°,12°,Plutôt ensoleillé,NE 8 km/h,45%
+ven. 23,19°,13°,Ensoleillé,S 7 km/h,77%
+sam. 24,19°,13°,Averses dans l'après-midi,S 9 km/h,49%
+dim. 25,20°,14°,Peu nuageux,SE 14 km/h,15%
+lun. 26,18°,14°,Averses,SE 20 km/h,12%
+mar. 27,18°,14°,Averses dans la matinée,S 18 km/h,12%
+mer. 28,18°,14°,Averses,SE 17 km/h,12%
+jeu. 29,18°,14°,Averses,S 18 km/h,21%
+ven. 30,18°,15°,Averses,S 17 km/h,35%
+sam. 31,18°,14°,Averses,SSO 17 km/h,45%
